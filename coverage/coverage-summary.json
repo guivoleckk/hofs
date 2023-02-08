@@ -1,0 +1,4 @@
+{"total": {"lines":{"total":62,"covered":62,"skipped":0,"pct":100},"statements":{"total":69,"covered":69,"skipped":0,"pct":100},"functions":{"total":15,"covered":15,"skipped":0,"pct":100},"branches":{"total":41,"covered":38,"skipped":0,"pct":92.68},"branchesTrue":{"total":0,"covered":0,"skipped":0,"pct":"Unknown"}}
+,"/home/guilherme/Área de Trabalho/meu-zoo/hofs/src/getOpeningHours.js": {"lines":{"total":41,"covered":41,"skipped":0,"pct":100},"functions":{"total":8,"covered":8,"skipped":0,"pct":100},"statements":{"total":45,"covered":45,"skipped":0,"pct":100},"branches":{"total":31,"covered":28,"skipped":0,"pct":90.32}}
+,"/home/guilherme/Área de Trabalho/meu-zoo/hofs/src/handlerElephants.js": {"lines":{"total":21,"covered":21,"skipped":0,"pct":100},"functions":{"total":7,"covered":7,"skipped":0,"pct":100},"statements":{"total":24,"covered":24,"skipped":0,"pct":100},"branches":{"total":10,"covered":10,"skipped":0,"pct":100}}
+}
